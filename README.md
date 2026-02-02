@@ -132,7 +132,7 @@ Revolutionary platform bridging traditional and decentralized finance. RWA token
 
 **Company:** FFOLLOWME OÜ
 **Registration:** 16785919 (Estonia)
-**Email:** rafael@ffollowme.com
+**Email:** info@ffollowme.com
 
 ---
 
